@@ -1,7 +1,5 @@
 ### Hi, I'm Marino Franz 👋
 
-<br />
-
 ## I'm a Developer/Programmer! 💻
 - ⚙️ Currently managing an Online Radio
 - 👨‍💻 Working on a multi-purpose Discord Bot
