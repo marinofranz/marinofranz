@@ -16,7 +16,7 @@
 <details>
     <summary>⚡ Recent GitHub Activity</summary>
 
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//marinofranz/LinkRobloxAPI/pull/1) in [marinofranz/LinkRobloxAPI](https://github.com//marinofranz/LinkRobloxAPI)
 2. 🗣 Commented on [#2045](https://github.com//PreMiD/Presences/issues/2045) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 3. 💪 Opened PR [#2125](https://github.com//PreMiD/Presences/pull/2125) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
