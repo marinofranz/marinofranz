@@ -17,11 +17,11 @@
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/theLMGN/rblxRP/issues/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
-2. 💪 Opened PR [#9](https://github.com/theLMGN/rblxRP/pull/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
-3. 🎉 Merged PR [#1](https://github.com/marinofranz/LinkRobloxAPI/pull/1) in [marinofranz/LinkRobloxAPI](https://github.com/marinofranz/LinkRobloxAPI)
-4. 🗣 Commented on [#2045](https://github.com/PreMiD/Presences/issues/2045) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 💪 Opened PR [#2125](https://github.com/PreMiD/Presences/pull/2125) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 💪 Opened PR [#2226](https://github.com/PreMiD/Presences/pull/2226) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 🗣 Commented on [#9](https://github.com/theLMGN/rblxRP/issues/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
+3. 💪 Opened PR [#9](https://github.com/theLMGN/rblxRP/pull/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
+4. 🎉 Merged PR [#1](https://github.com/marinofranz/LinkRobloxAPI/pull/1) in [marinofranz/LinkRobloxAPI](https://github.com/marinofranz/LinkRobloxAPI)
+5. 🗣 Commented on [#2045](https://github.com/PreMiD/Presences/issues/2045) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 </details>
 
