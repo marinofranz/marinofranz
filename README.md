@@ -17,11 +17,11 @@
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2226](https://github.com/PreMiD/Presences/issues/2226) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 💪 Opened PR [#2226](https://github.com/PreMiD/Presences/pull/2226) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. 🗣 Commented on [#9](https://github.com/theLMGN/rblxRP/issues/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
-4. 💪 Opened PR [#9](https://github.com/theLMGN/rblxRP/pull/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
-5. 🎉 Merged PR [#1](https://github.com/marinofranz/LinkRobloxAPI/pull/1) in [marinofranz/LinkRobloxAPI](https://github.com/marinofranz/LinkRobloxAPI)
+1. ❌ Closed PR [#3](https://github.com/axivl/whitelistbot/pull/3) in [axivl/whitelistbot](https://github.com/axivl/whitelistbot)
+2. 💪 Opened PR [#3](https://github.com/axivl/whitelistbot/pull/3) in [axivl/whitelistbot](https://github.com/axivl/whitelistbot)
+3. 🗣 Commented on [#2226](https://github.com/PreMiD/Presences/issues/2226) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 💪 Opened PR [#2226](https://github.com/PreMiD/Presences/pull/2226) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. 🗣 Commented on [#9](https://github.com/theLMGN/rblxRP/issues/9) in [theLMGN/rblxRP](https://github.com/theLMGN/rblxRP)
 <!--END_SECTION:activity-->
 </details>
 
