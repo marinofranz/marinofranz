@@ -14,6 +14,15 @@
 <br />
 
 <details>
+    <summary>📌 Projects</summary><br />
+    
+[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=generator-marino-gen)](https://github.com/marinofranz/generator-marino-gen)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=HRVY-api)](https://github.com/marinofranz/HRVY-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=RBXFetch)](https://github.com/marinofranz/RBXFetch)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=LinkRobloxAPI)](https://github.com/marinofranz/LinkRobloxAPI)
+</details>
+
+<details>
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
