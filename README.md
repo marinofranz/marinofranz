@@ -26,11 +26,11 @@
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/marinofranz/HRVY-api/pull/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
-2. 🗣 Commented on [#1](https://github.com/marinofranz/HRVY-api/issues/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
-3. 🗣 Commented on [#2](https://github.com/DualFM/dualapi/issues/2) in [DualFM/dualapi](https://github.com/DualFM/dualapi)
-4. 💪 Opened PR [#2](https://github.com/DualFM/dualapi/pull/2) in [DualFM/dualapi](https://github.com/DualFM/dualapi)
-5. 🎉 Merged PR [#2](https://github.com/marinofranz/CustomRPC/pull/2) in [marinofranz/CustomRPC](https://github.com/marinofranz/CustomRPC)
+1. 🎉 Merged PR [#2](https://github.com/marinofranz/HRVY-api/pull/2) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
+2. 🎉 Merged PR [#1](https://github.com/marinofranz/HRVY-api/pull/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
+3. 🗣 Commented on [#1](https://github.com/marinofranz/HRVY-api/issues/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
+4. 🗣 Commented on [#2](https://github.com/DualFM/dualapi/issues/2) in [DualFM/dualapi](https://github.com/DualFM/dualapi)
+5. 💪 Opened PR [#2](https://github.com/DualFM/dualapi/pull/2) in [DualFM/dualapi](https://github.com/DualFM/dualapi)
 <!--END_SECTION:activity-->
 </details>
 
