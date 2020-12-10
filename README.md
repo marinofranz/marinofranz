@@ -23,6 +23,18 @@
 </details>
 
 <details>
+    <summary>💫 Top Languages</summary><br />
+    
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=marinofranz&hide=Shell&langs_count=10)](https://github.com/marinofranz/generator-marino-gen)
+</details>
+
+<details>
+    <summary>🎉 Wakatime</summary><br />
+    
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=marinofranz)](https://wakatime.com/@marinofranz)
+</details>
+
+<details>
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
@@ -37,5 +49,5 @@
 <details>
     <summary>📊 GitHub Stats</summary>
     <br />
-    <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-five-rho.vercel.app/api?username=marinofranz&show_icons=true&hide_border=true" />
+    <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marinofranz&show_icons=true&bg_color=360,ffffff,e6f4ff" />
 </details>
