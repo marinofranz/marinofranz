@@ -22,8 +22,6 @@
 <!--END_SECTION:waka-->
 </details>
 
-<br />
-
 <details>
     <summary><img src="https://discord.com/assets/09204f6a96455580e749454b7449aa82.svg" align="center" width="25" /> Projects</summary><br />
     
