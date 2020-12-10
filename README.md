@@ -18,8 +18,8 @@
 <details>
     <summary><img src="https://discord.com/assets/7be2358758e81e1ab253eb071a9527c7.svg" align="center" width="23" /> This week, I spent my time on</summary><br />
     
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 
 <br />
