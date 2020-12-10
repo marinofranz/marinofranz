@@ -36,5 +36,6 @@
 
 <details>
     <summary>📊 GitHub Stats</summary>
+    <br />
     <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-five-rho.vercel.app/api?username=marinofranz&show_icons=true&hide_border=true" />
 </details>
