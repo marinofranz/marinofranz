@@ -1,4 +1,5 @@
-### Hi, I'm Marino Franz <img src="https://github.com/marinofranz/marinofranz/raw/master/assets/6391_ablobwave.gif" width="30" />
+<img src="https://github.com/marinofranz/marinofranz/raw/master/assets/6391_ablobwave.gif" width="30" />
+<h3>Hi, I'm Marino Franz</h3>
 
 ## I'm a Developer/Programmer! 💻
 - ⚙️ Currently managing an Online Radio
