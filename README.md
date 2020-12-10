@@ -14,14 +14,6 @@
 
 <br />
 
-
-<details>
-    <summary><img src="https://discord.com/assets/7be2358758e81e1ab253eb071a9527c7.svg" align="center" width="23" /> This week, I spent my time on</summary><br />
-    
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</details>
-
 <details>
     <summary><img src="https://discord.com/assets/09204f6a96455580e749454b7449aa82.svg" align="center" width="25" /> Projects</summary><br />
     
