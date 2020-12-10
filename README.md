@@ -14,6 +14,16 @@
 
 <br />
 
+
+<details>
+    <summary><img src="https://discord.com/assets/7be2358758e81e1ab253eb071a9527c7.svg" align="center" width="23" /> This week, I spent my time on</summary><br />
+    
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
+
+<br />
+
 <details>
     <summary><img src="https://discord.com/assets/09204f6a96455580e749454b7449aa82.svg" align="center" width="25" /> Projects</summary><br />
     
@@ -27,12 +37,6 @@
     <summary><img src="https://discord.com/assets/1b3817ca3b1dc991baefdb3079ed0624.svg" align="center" width="25" /> Top Languages</summary><br />
     
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=marinofranz&hide=Shell&langs_count=10)](https://github.com/marinofranz/generator-marino-gen)
-</details>
-
-<details>
-    <summary><img src="https://discord.com/assets/b052a4bef57c1aa73cd7cff5bc4fb61d.svg" align="center" width="25" /> Wakatime <strong>(A bit broken)</strong></summary><br />
-    
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=marinofranz)](https://wakatime.com/@marinofranz)
 </details>
 
 <details>
