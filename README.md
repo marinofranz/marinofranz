@@ -30,6 +30,12 @@
 </details>
 
 <details>
+    <summary><img src="https://discord.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg" align="center" width="25" /> Trophies</summary>
+    
+[![](https://github-profile-trophy.vercel.app/?username=marinofranz&row=2&column=3)](https://github.com/marinofranz)
+</details>
+
+<details>
     <summary><img src="https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg" align="center" width="25" /> Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
