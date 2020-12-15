@@ -30,7 +30,7 @@
 </details>
 
 <details>
-    <summary><img src="https://discord.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg" align="center" width="25" /> Trophies</summary>
+    <summary><img src="https://discord.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg" align="center" width="25" /> Trophies</summary><br />
     
 [![](https://github-profile-trophy.vercel.app/?username=marinofranz&row=2&column=3)](https://github.com/marinofranz)
 </details>
