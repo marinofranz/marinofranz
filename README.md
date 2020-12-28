@@ -39,11 +39,11 @@
     <summary><img src="https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg" align="center" width="25" /> Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#298](https://github.com/pterodactyl/documentation/pull/298) in [pterodactyl/documentation](https://github.com/pterodactyl/documentation)
-2. 🎉 Merged PR [#2](https://github.com/marinofranz/HRVY-api/pull/2) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
-3. 🎉 Merged PR [#1](https://github.com/marinofranz/HRVY-api/pull/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
-4. 🗣 Commented on [#1](https://github.com/marinofranz/HRVY-api/issues/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
-5. 🗣 Commented on [#2](https://github.com/DualFM/dualapi/issues/2) in [DualFM/dualapi](https://github.com/DualFM/dualapi)
+1. 🎉 Merged PR [#1](https://github.com/marinofranz/portainer-installer/pull/1) in [marinofranz/portainer-installer](https://github.com/marinofranz/portainer-installer)
+2. 💪 Opened PR [#1](https://github.com/marinofranz/portainer-installer/pull/1) in [marinofranz/portainer-installer](https://github.com/marinofranz/portainer-installer)
+3. 💪 Opened PR [#298](https://github.com/pterodactyl/documentation/pull/298) in [pterodactyl/documentation](https://github.com/pterodactyl/documentation)
+4. 🎉 Merged PR [#2](https://github.com/marinofranz/HRVY-api/pull/2) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
+5. 🎉 Merged PR [#1](https://github.com/marinofranz/HRVY-api/pull/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
 <!--END_SECTION:activity-->
 </details>
 
