@@ -17,9 +17,7 @@
     <summary><img src="https://discord.com/assets/09204f6a96455580e749454b7449aa82.svg" align="center" width="25" /> Projects</summary><br />
     
 [![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=generator-marino-gen)](https://github.com/marinofranz/generator-marino-gen)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=HRVY-api)](https://github.com/marinofranz/HRVY-api)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=RBXFetch)](https://github.com/marinofranz/RBXFetch)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=LinkRobloxAPI)](https://github.com/marinofranz/LinkRobloxAPI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=marinofranz&repo=upbeatradio)](https://github.com/marinofranz/upbeatradio)
 </details>
 
 <details>
