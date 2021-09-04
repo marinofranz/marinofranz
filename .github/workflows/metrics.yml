@@ -50,7 +50,7 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_notable: yes
-          plugin_notable_filter: stars:>500
+          plugin_notable_filter: stars:>75
           plugin_notable_repositories: yes
           plugin_lines: yes
           plugin_isocalendar: yes
