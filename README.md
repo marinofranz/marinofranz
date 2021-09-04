@@ -2,8 +2,7 @@
 <h3>Hi, I'm Marino Franz</h3>
 
 ## I'm a Developer/Programmer! 💻
-- 👨‍💻 Working on a multi-purpose Discord Bot
-- ✨ Currently programming many PreMiD Presences
+- 👨‍💻 Volunteering software development for an online radio
 
 <br />
 
