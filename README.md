@@ -36,11 +36,11 @@
     <summary><img src="https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg" align="center" width="25" /> Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/marinofranz/portainer-installer/pull/1) in [marinofranz/portainer-installer](https://github.com/marinofranz/portainer-installer)
-2. 💪 Opened PR [#1](https://github.com/marinofranz/portainer-installer/pull/1) in [marinofranz/portainer-installer](https://github.com/marinofranz/portainer-installer)
-3. 💪 Opened PR [#298](https://github.com/pterodactyl/documentation/pull/298) in [pterodactyl/documentation](https://github.com/pterodactyl/documentation)
-4. 🎉 Merged PR [#2](https://github.com/marinofranz/HRVY-api/pull/2) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
-5. 🎉 Merged PR [#1](https://github.com/marinofranz/HRVY-api/pull/1) in [marinofranz/HRVY-api](https://github.com/marinofranz/HRVY-api)
+1. 🗣 Commented on [#4310](https://github.com/PreMiD/Presences/issues/4310) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 🗣 Commented on [#4310](https://github.com/PreMiD/Presences/issues/4310) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 💪 Opened PR [#4310](https://github.com/PreMiD/Presences/pull/4310) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 🗣 Commented on [#1](https://github.com/marinofranz/upbeatradio/issues/1) in [marinofranz/upbeatradio](https://github.com/marinofranz/upbeatradio)
+5. 💪 Opened PR [#213](https://github.com/Dev-CasperTheGhost/snaily-cadv3/pull/213) in [Dev-CasperTheGhost/snaily-cadv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
 <!--END_SECTION:activity-->
 </details>
 
