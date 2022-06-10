@@ -249,7 +249,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="223.53362734288865" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="223.53362734288865" y="0" width="85.79891442625731" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="309.33254176914596" y="0" width="36.03807989144263" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="309.33254176914596" y="0" width="36.03807989144263" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="345.37062166058854" y="0" width="30.06912051564753" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="375.43974217623605" y="0" width="29.48392841998134" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="404.9236705962174" y="0" width="27.26995165804427" height="8" fill="#89e051"/>
@@ -271,7 +271,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -2409,7 +2409,7 @@
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
                                         TypeScript
                                     </div>
