@@ -14,7 +14,7 @@ My go-to language is **TypeScript**, and I enjoy working across the full stack. 
 
 ## ⚡ Fun Facts
 
-- 🎮 When I'm not coding, you'll find me in flight simulators practicing for the real thing
+- 🎮 When I'm not coding, you'll find me in the flight simulator practicing for the real thing
 - 🛫 I can probably name more aircraft types than programming languages
 
 ---
