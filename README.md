@@ -12,12 +12,6 @@ Welcome to my GitHub profile! I'm a developer and aviation enthusiast, building 
 
 My go-to language is **TypeScript**, and I enjoy working across the full stack. I'm always exploring new tools and frameworks to improve my craft.
 
-## 📊 GitHub Stats
-
-![Marino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinofranz&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marinofranz&layout=compact&theme=dark)
-
 ## ⚡ Fun Facts
 
 - 🎮 When I'm not coding, you'll find me in flight simulators practicing for the real thing
